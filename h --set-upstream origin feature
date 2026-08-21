@@ -1,0 +1,30 @@
+[33mcommit fbcd14d7a04732d8e4b54de2e8c4f358f58496cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2a99d7c 3c329ef
+Author: Shubham singh <shubham1041singh@gmail.com>
+Date:   Fri Aug 21 21:35:08 2026 +0530
+
+    resolved merge conflict
+
+[33mcommit 3c329efb3e605cf14547abd8736f2304eeecefd3[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Shubham singh <shubham1041singh@gmail.com>
+Date:   Fri Aug 21 21:31:10 2026 +0530
+
+    third commit
+
+[33mcommit 2a99d7c9d24f450268e876eecc524f2d53e9a8be[m
+Author: Shubham singh <shubham1041singh@gmail.com>
+Date:   Fri Aug 21 21:30:19 2026 +0530
+
+    second commit
+
+[33mcommit 483fd3bafcc7b442126474c2d9ec22ece87f8453[m
+Author: Shubham singh <shubham1041singh@gmail.com>
+Date:   Fri Aug 21 21:25:14 2026 +0530
+
+    second commit
+
+[33mcommit 101f1794defbdf930dd4cbdb58c98f205a632484[m
+Author: Shubham singh <shubham1041singh@gmail.com>
+Date:   Fri Aug 21 20:39:17 2026 +0530
+
+    first commit
